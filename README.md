@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Henrique, Front-end engenieer developer from <img src="https://countryflagsapi.com/svg/brazil" width="13"/> <b>Belo Horizonte, Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Henrique, Front-end engenieer developer from <img src="https://flagsapi.com/BR/flat/32" width="13"/> <b>Belo Horizonte, Brazil</b>. </p>
 <h3>Things I code with</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
