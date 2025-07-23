@@ -1,55 +1,71 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hey! Nice to see you.
-</h1>
+# Henrique Freire
 
-<p>
-  Welcome to my page! <br />
-  I'm Henrique — a Front-end Engineer from 
-  <img src="https://flagsapi.com/BR/flat/32" width="13" /> 
-  <b>Belo Horizonte, Brazil</b>.
-</p>
+Welcome!  
+I'm Henrique, a Front-end Engineer based in **Belo Horizonte, Brazil**.
 
-<h3>Things I code with</h3>
+## Summary
 
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis" alt="Redis" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="Amazon AWS" />
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" alt="Webpack" />
-</p>
+Creative and detail-oriented Front-End Engineer with 9+ years of experience crafting scalable, user-focused web applications. Adept at modernizing legacy systems, leading architectural decisions, and delivering performance-optimized interfaces. Passionate about developer experience, accessibility, and collaborative team environments. Skilled in React, Vue, Nuxt, micro-frontends, and performance engineering.
 
-<ul>
-<!--   <li>🔭 Currently working as a Front-end Engineer at <b>Hotmart</b>.</li> -->
-  <li>💳 Focused on payment solutions and integrations (e.g. PayPal, Apple Pay, Klarna).</li>
-  <li>🌱 Currently learning <b>Nextjs</b>, <b>Svelte</b>, and native <b>JavaScript APIs</b>.</li>
-  <li>💬 Ask me about front-end architecture, JavaScript frameworks, or rollerblading!</li>
-</ul>
+---
 
-<h3>Where to find me</h3>
+## Technical Skills
 
-<p>
-  <a href="https://github.com/henfreire" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/henfreire" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/henfreire" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://henrique-freire.medium.com" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+**Languages & Frameworks**  
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nextjs,nodejs,express&perline=8" alt="Languages & Frameworks" height="25" />
+
+
+**Architecture & Patterns**  
+
+<img src="https://img.shields.io/badge/Micro--Frontends-4285F4?style=flat&logo=webcomponents.org&logoColor=white" alt="Micro-Frontends" height="25" />  <img src="https://skillicons.dev/icons?i=pinia,redux&perline=8" alt="Storage" height="25"/>  
+
+
+
+**Testing**  
+
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress&perline=8" alt="Testing" height="25" />  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook" height="25" />  
+
+
+
+**Build & DevOps**  
+
+<img src="https://skillicons.dev/icons?i=webpack,vite,github,githubactions&perline=8" alt="Build & DevOps" height="25" />  Drone CI • CI/CD pipelines
+
+
+**Cloud & Databases**  
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,redis&perline=8" alt="Cloud & Databases" height="25" />  AWS (S3, CloudFront, Lambda, Athena)
+
+
+**UX & Design**  
+
+<img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Design" height="25" />  A/B Testing (Optimizely) • Events Tracking
+
+
+**Observability**  
+
+<img src="https://skillicons.dev/icons?i=vercel&perline=8" alt="Observability" height="25" />  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry" height="25" />  <img src="https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white" alt="New Relic" height="25" />
+
+
+**Performance**  
+
+<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white" alt="Lighthouse" height="25" />  <img src="https://img.shields.io/badge/SpeedCurve-FF6900?style=flat&logo=speedcurve&logoColor=white" alt="SpeedCurve" height="25" />  
+
+## Languages
+
+**Portuguese** (Native) • **English** (Advanced) • **Spanish** (Intermediate)
+
+---
+
+- Focused on payment solutions and integrations (PayPal, Apple Pay, Klarna, etc).
+- Currently learning **Next.js**, **Svelte**, and native **JavaScript APIs**.
+- Open to discussions about front-end architecture, JavaScript frameworks, or rollerblading.
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/henfreire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henfreire)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://henrique-freire.medium.com)
